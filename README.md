@@ -1,0 +1,2 @@
+# Web_Crawler_Practice
+使用requests和beautifulSoup寫的網頁爬蟲，單純練習用，爬的網站是PTT
